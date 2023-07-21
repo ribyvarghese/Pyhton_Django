@@ -1,0 +1,23 @@
+li:hover{
+    background-color: grey;
+    border-radius: 10px;
+    border: 1px solid yellow;
+}
+
+
+.header {
+    padding: 10px;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+  }
+  
+  
+  .header2 {
+    padding: 10px;
+    text-align:left;
+    background: #011310;
+    color: white;
+    font-size: 14px;    
+    
+  }
